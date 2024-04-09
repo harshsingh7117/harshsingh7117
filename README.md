@@ -74,7 +74,7 @@ Happy coding! 😄
 <br>
 <br>
 <div align=center>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshsingh7117&theme=dracula)
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshsingh7117&theme=dracula">
 </div>
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
